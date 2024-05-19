@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    border: 0ch;
+}
+form{
+    background-color: aliceblue;
+    box-shadow: 5px, 5px, 15px;
+    border-radius: 0cqi;
+    block-size: 1em;
+}
+#but{
+    background-color: brown;
+}
